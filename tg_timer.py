@@ -25,8 +25,8 @@ from client_utils import get_last_fragment, run_on_queue
 from java import dynamic_proxy
 
 # ---------- НАСТРОЙКИ ОБНОВЛЕНИЙ (ЗАМЕНИТЕ НА СВОИ) ----------
-UPDATE_CHECK_URL = "https://raw.githubusercontent.com/your-username/your-repo/main/version.json"
-PLUGIN_DOWNLOAD_URL = "https://raw.githubusercontent.com/your-username/your-repo/main/tg_timer.py"
+UPDATE_CHECK_URL = "https://raw.githubusercontent.com/avstrialtg-collab/UpdateTIMERo/main/version.json"
+PLUGIN_DOWNLOAD_URL = "https://raw.githubusercontent.com/avstrialtg-collab/UpdateTIMERo/main/tg_timer.py"
 # --------------------------------------------------------------
 
 __id__ = "tg_timer"
